@@ -17,7 +17,7 @@ A Laravel-based system to manage **buildings, flats, tenants, and bills** with *
 ## ⚙️ Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/multi-tenant-bill-system.git
+   git clone https://github.com/dawoodulislam/multi-tenant-flat-bill-system.git
    cd multi-tenant-bill-system
    ```
 
@@ -64,6 +64,15 @@ A Laravel-based system to manage **buildings, flats, tenants, and bills** with *
 - **Bills List:** [http://127.0.0.1:8000/owner](http://127.0.0.1:8000/owner/bills) 
 
 ---
+
+## User Credentials
+- Super Admin
+- - Email: admin@example.com
+- - Password: password
+
+- House Owner
+- - Email: owner1@example.com
+- - Password: password
 
 ## 📧 Email Configuration
 Update `.env` with your email testing credentials (e.g., **Mailtrap**):
