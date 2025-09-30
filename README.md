@@ -55,13 +55,23 @@ A Laravel-based system to manage **buildings, flats, tenants, and bills** with *
 ---
 
 ## 🌍 URLs List
-- **Panel Login:** [http://127.0.0.1:8000/admin](http://127.0.0.1:8000/login)  
-- **Dashboard:** [http://127.0.0.1:8000/owner](http://127.0.0.1:8000/dashboard)  
-- **House Owner List:** [http://127.0.0.1:8000/owner](http://127.0.0.1:8000/admin/houseowners)
-- **Building List:** [http://127.0.0.1:8000/owner](http://127.0.0.1:8000/admin/houseowners)
-- **Tenants List:** [http://127.0.0.1:8000/owner](http://127.0.0.1:8000/admin/tenants) 
-- **Flats List:** [http://127.0.0.1:8000/owner](http://127.0.0.1:8000/owner/flats) 
-- **Bills List:** [http://127.0.0.1:8000/owner](http://127.0.0.1:8000/owner/bills) 
+- - Local Url:
+- **Panel Login:** [http://127.0.0.1:8000/login](http://127.0.0.1:8000/login)  
+- **Dashboard:** [http://127.0.0.1:8000/dashboard](http://127.0.0.1:8000/dashboard)  
+- **House Owner List:** [http://127.0.0.1:8000/admin/houseowners](http://127.0.0.1:8000/admin/houseowners)
+- **Building List:** [http://127.0.0.1:8000/admin/buildings](http://127.0.0.1:8000/admin/buildings)
+- **Tenants List:** [http://127.0.0.1:8000/admin/tenants](http://127.0.0.1:8000/admin/tenants) 
+- **Flats List:** [http://127.0.0.1:8000/owner/flats](http://127.0.0.1:8000/owner/flats) 
+- **Bills List:** [http://127.0.0.1:8000/owner/bills](http://127.0.0.1:8000/owner/bills) 
+
+- - Live Url:
+- **Panel Login:** [https://tenanthub.infinityfree.me/admin](https://tenanthub.infinityfree.me/login)  
+- **Dashboard:** [https://tenanthub.infinityfree.me/owner](https://tenanthub.infinityfree.me/dashboard)  
+- **House Owner List:** [https://tenanthub.infinityfree.me/owner](https://tenanthub.infinityfree.me/admin/houseowners)
+- **Building List:** [https://tenanthub.infinityfree.me/owner](https://tenanthub.infinityfree.me/admin/houseowners)
+- **Tenants List:** [https://tenanthub.infinityfree.me/owner](https://tenanthub.infinityfree.me/admin/tenants) 
+- **Flats List:** [https://tenanthub.infinityfree.me/owner](https://tenanthub.infinityfree.me/owner/flats) 
+- **Bills List:** [https://tenanthub.infinityfree.me/owner](https://tenanthub.infinityfree.me/owner/bills) 
 
 ---
 
@@ -70,7 +80,7 @@ A Laravel-based system to manage **buildings, flats, tenants, and bills** with *
 - - Email: admin@example.com
 - - Password: password
 
-- House Owner
+- House Owner(Create new owner by super admin)
 - - Email: owner1@example.com
 - - Password: password
 
