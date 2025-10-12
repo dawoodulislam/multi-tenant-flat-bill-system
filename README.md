@@ -82,7 +82,7 @@ A Laravel-based system to manage **buildings, flats, tenants, and bills** with *
 
 - House Owner(Create new owner by super admin)
 - - Email: owner1@example.com
-- - Password: password
+- - Password: passwordd
 
 ## 📧 Email Configuration
 Update `.env` with your email testing credentials (e.g., **Mailtrap**):
